@@ -1,0 +1,14 @@
+﻿D:\Core Dotnet\Web_Api_PMS\Controllers\ProductController.cs
+D:\Core Dotnet\Web_Api_PMS\Data\ApiDbContext.cs
+D:\Core Dotnet\Web_Api_PMS\Migrations\20231213093346_Check.cs
+D:\Core Dotnet\Web_Api_PMS\Migrations\20231213093346_Check.Designer.cs
+D:\Core Dotnet\Web_Api_PMS\Migrations\ApiDbContextModelSnapshot.cs
+D:\Core Dotnet\Web_Api_PMS\Model\Products.cs
+D:\Core Dotnet\Web_Api_PMS\Program.cs
+D:\Core Dotnet\Web_Api_PMS\obj\Debug\net7.0\Web Api.GlobalUsings.g.cs
+D:\Core Dotnet\Web_Api_PMS\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+D:\Core Dotnet\Web_Api_PMS\obj\Debug\net7.0\Web Api.AssemblyInfo.cs
+D:\Core Dotnet\Web_Api_PMS\obj\Debug\net7.0\Web Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Core Dotnet\Web_Api_PMS\appsettings.Development.json
+D:\Core Dotnet\Web_Api_PMS\appsettings.json
+D:\Core Dotnet\Web_Api_PMS\Properties\launchSettings.json

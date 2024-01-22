@@ -1,0 +1,1 @@
+D:\Core Dotnet\Web_Api_PMS\.sonarqube\out\0
